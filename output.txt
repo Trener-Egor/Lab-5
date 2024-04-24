@@ -1,0 +1,11 @@
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5 (4.75)
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4 (4.5)
+[5532] Sidorov Ivan Vladimirovich: 4, 3, 4, 5 (4)
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3 (3.75)
+[1234] Karpov Egor Vladimirovich: 3, 3, 5, 3 (3.5)
+
+print unordered_set:
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5 (4.75)
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3 (3.75)
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4 (4.5)
+[1234] Karpov Egor Vladimirovich: 3, 3, 5, 3 (3.5)
